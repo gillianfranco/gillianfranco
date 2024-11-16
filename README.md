@@ -1,7 +1,6 @@
-<div width="100%" style="display: flex; flex-direction:row; align-items:center; justify-content: center;">
-  <a href="https://github.com/gillianfranco" ></a>
-  <div>
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=gillianfranco&show_icons=true&theme=dracula">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gillianfranco&layout-compact&langs_count=16&theme=dracula">
-  </div>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gillianfranco&theme=yeblu"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gillianfranco&layout=compact&langs_count=8&card_width=320&theme=yeblu"/>
+</a>
