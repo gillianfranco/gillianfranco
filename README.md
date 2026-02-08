@@ -5,7 +5,7 @@
 	<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </head>
 <body>
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=167FF5&vCenter=true&repeat=false&width=460&lines=Hi+there!+Welcome+to+my+profile!" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=167FF5&repeat=false&width=435&lines=Hey!+Welcome+to+my+profile!" alt="Typing SVG" /></a>
 	<p>My name is Gillian Melo Franco. I'm a Computer Engineering student and passionate about programming. My current focus is back-end development, but I'm also interested in DevOps, robotics, computer architecture, artificial intelligence, and cybersecurity.</p>
 	<hr>
 	<h3 style="color: ; font-family: 'Fira Code', monospace;">Most Used technologies</h4>
