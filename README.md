@@ -8,7 +8,7 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=167FF5&vCenter=true&repeat=false&width=460&lines=Hi+there!+Welcome+to+my+profile!" alt="Typing SVG" /></a>
 	<p>My name is Gillian Melo Franco. I'm a Computer Engineering student and passionate about programming. My current focus is back-end development, but I'm also interested in DevOps, robotics, computer architecture, artificial intelligence, and cybersecurity.</p>
 	<hr>
-	<h4 style="color: ; font-family: 'Fira Code', monospace;">Most Used technologies</h4>
+	<h3 style="color: ; font-family: 'Fira Code', monospace;">Most Used technologies</h4>
 	<div style="display: inline_block">
 		<img height="30" width="40" src="https://devicon-website.vercel.app/api/c/original.svg"></img>
 		<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
@@ -22,7 +22,7 @@
 		<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
         <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 	</div>
-	<h4 style="color: ; font-family: 'Fira Code', monospace;">Technologies I’ve already worked with</h4>
+	<h3 style="color: ; font-family: 'Fira Code', monospace;">Technologies I’ve already worked with</h4>
 	<div style="display: inline_block">
 		<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
         <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
